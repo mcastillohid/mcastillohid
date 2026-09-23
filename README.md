@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+| Comando | Qué hace || ------- | -------- || add | agrega || commit | guarda |
 <!--
 **mcastillohid/mcastillohid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
